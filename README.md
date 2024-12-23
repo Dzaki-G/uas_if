@@ -23,9 +23,14 @@
 ### 1.2 Event Handling 
 - **Penanganan Event:** Tambahkan minimal 3 event berbeda untuk meng-handle form pada poin 1.1.
 - **Validasi Input:** Gunakan JavaScript untuk validasi setiap input sebelum data diproses oleh server (PHP).
+
 <img src="readme_asset/1.2.gif" width="600" height="auto" />
- <img src="readme_asset/validasi_script.png" width="auto" height="300" />
-- Bagian ini akan memvalidasi setiap inputan user.
+
+<img src="readme_asset/validasi_script.png" width="auto" height="300" />
+
+- **Validasi Link** Digunakan validasi ketika pengguna belum login sebagai user atau admin tetapi ingin langsung mengakses /UAS_IF/heroes tanpa login.
+
+<img src="readme_asset/link.gif" width="600" height="auto" />
 
 ---
 
